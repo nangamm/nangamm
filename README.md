@@ -1,6 +1,8 @@
 ## Hi there 👋,I'm Ford
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXI0Y3ByMGd6aGl4d3FlcDd2MjhmanZ4eWo4aXNld2hwNDhvcDdhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="400" />
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXI0Y3ByMGd6aGl4d3FlcDd2MjhmanZ4eWo4aXNld2hwNDhvcDdhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="300" />
+</p>
 
 - 🔭 I’m currently working on personal projects with **Flask** and **MERN Stack**.  
 - 🌱 I’m currently learning **Full-stack web development** step by step (HTML, CSS, JavaScript, React, Node.js, MongoDB).  
