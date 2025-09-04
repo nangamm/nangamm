@@ -1,7 +1,7 @@
 ## Hi there 👋,I'm Ford
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXI0Y3ByMGd6aGl4d3FlcDd2MjhmanZ4eWo4aXNld2hwNDhvcDdhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="400" height="250" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXI0Y3ByMGd6aGl4d3FlcDd2MjhmanZ4eWo4aXNld2hwNDhvcDdhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" width="cover" height="cover" />
 </p>
 
 - 🔭 I’m currently working on personal projects with **Flask** and **MERN Stack**.  
