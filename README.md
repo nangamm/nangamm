@@ -4,8 +4,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZudXM0ZHYxaWVvd2ZwaXVtZTFmcm10bThhZDBuZWo3MW5saGwzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="800" height="1000" />
 </p>
 
-<div>
-  <div>
 - 🔭 I’m currently working on personal projects with **Flask** and **MERN Stack**.  
 - 🌱 I’m currently learning **Full-stack web development** step by step (HTML, CSS, JavaScript, React, Node.js, MongoDB).  
 - 👯 I’m looking to collaborate on open-source projects that help beginners learn programming.  
@@ -14,9 +12,6 @@
 - 📫 How to reach me: wutthinan.fordd@gmail.com | [https://github.com/nangamm](https://github.com/nangamm)
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I started programming with only HTML & CSS, and now I’m diving into full-stack development 🚀  
-  </div>
-</div>
-
 
 🛠  Tech Stack
 <p>
