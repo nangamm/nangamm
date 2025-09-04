@@ -1,4 +1,4 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35](https://github.com/user-attachments/assets/f9126f77-3353-4f1c-9076-12576d4a3b87)## Hi there 👋,I'm Ford
+## Hi there 👋,I'm Ford
 
 Here are some ideas to get you started:
 
